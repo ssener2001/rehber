@@ -1,5 +1,5 @@
 # rehber
-Basit bir facebook'un örnek uygulamasının değiştirilmesiyle yapılmış adres defteri uygulaması.
+Basit bir facebook'un örnek uygulamasının değiştirilmesiyle yapılmış telefon defteri uygulaması.
 javascirpt ve raact kullanılarak bir excel dosyasındaki telefon defterinin aktarılmasıyla oluşturuldu.
 Excel'de küçük bir makro ile satırlar json formatına dönüştürüldü.
 
